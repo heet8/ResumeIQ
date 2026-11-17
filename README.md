@@ -309,8 +309,8 @@ ResumeIQ uses **Supabase Authentication** for:
 
 **Heet Patel**
 
-- GitHub: https://github.com/heet88
-- LinkedIn: https://www.linkedin.com/in/heet247
+- GitHub: https://github.com/heet8
+- LinkedIn: https://www.linkedin.com/in/heet8
 
 ---
 
